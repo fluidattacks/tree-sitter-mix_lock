@@ -1,0 +1,6 @@
+/build
+/node_modules
+
+/bindings/
+/Cargo.toml
+/target/
